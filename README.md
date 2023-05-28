@@ -14,6 +14,7 @@
 
 <li align="left"> ⚡ Interesting fact ➡︎ I am a polymath and learn to draw from multiple pools of knowledge to solve complex problems</li><br/><br/>
 
+<br><br/>
 <p align="left">
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png " alt="jupyter-notebook" width="40" height="40"/>
 <img align="left" alt="HTML5" width="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/>
@@ -35,7 +36,7 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 </p>
-
+<br><br/>
 <p align="center">
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&theme=blue-green&show_icons=true" alt="code-nimbus" />
