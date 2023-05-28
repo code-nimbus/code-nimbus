@@ -1,4 +1,8 @@
-# Hi👋, I'm Anuva Agarwal
+
+
+<h1 align="center">
+  <b> Hi👋, I'm Anuva Agarwal</b>
+</h1>
 
 ## I am an experienced Software Developer
 
