@@ -8,11 +8,9 @@
 
 <li align="left"> 🔭 I’m currently exploring Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
 
-<li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
+<li align="left"> 📫 Let's connect ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
 
 <li align="left"> 💬 Ask me about ➡︎ <b> Web Development, Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
-
-<li align="left"> 📫 Reach me at ➡︎ <b>agarwalanuva16@gmail.com</b></li>
 
 <li align="left"> ⚡ Interesting fact ➡︎ <b>I  once wrote a program that generated random jokes. Programming can be both productive and hilarious!</b></li><br/><br/>
 
