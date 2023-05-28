@@ -34,7 +34,7 @@
 
 <p align="center">
 <br/>
-<span style="background-color: #00FFFF">“ Whatever happens, life goes on!” </span>
+<span style="background-color: #00FFFF">"I speak fluent sarcasm in multiple programming languages."</span>
 </p>
 
 <br/>
