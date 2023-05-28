@@ -4,6 +4,8 @@
 <img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-nimbus" alt="code-nimbus" /> </p>
 
+<li align="left"> 🎯 Portfolio website: [Portfolio](https://code-nimbus.github.io/)</b></li>
+
 <li align="left"> 🔭 I’m currently exploring Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
 
 <li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
