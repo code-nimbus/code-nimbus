@@ -18,3 +18,5 @@ Here are some ideas to get you started:-->
 - ✨ Reach me at ➡︎ agarwalnuva16@gmail.com
 - ⚡ Fun fact: I once wrote a program that generated random jokes. Programming can be both productive and hilarious!
 
+![codegirl](codegirl.gif)
+
