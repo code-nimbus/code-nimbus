@@ -12,7 +12,7 @@
 
 <li align="left"> 💬 Ask me about ➡︎ <b> Web Development, Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
 
-<li align="left"> ⚡ Interesting fact ➡︎ <b>I  once wrote a program that generated random jokes. Programming can be both productive and hilarious!</b></li><br/><br/>
+<li align="left"> ⚡ Interesting fact ➡︎ I am a polymath and learn to draw from multiple pools of knowledge to solve complex problems</li><br/><br/>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png " alt="jupyter-notebook" width="40" height="40"/>
