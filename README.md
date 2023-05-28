@@ -40,9 +40,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/agarwalanuva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="code-nimbus" height="20" width="20" /></a>
 
-<h1 align="center">
-  <b> Hi👋, I'm Anuva Agarwal</b>
-</h1>
-
 
 
