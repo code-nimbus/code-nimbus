@@ -14,7 +14,6 @@
 
 <li align="left"> ⚡ Interesting fact ➡︎ I am a polymath and learn to draw from multiple pools of knowledge to solve complex problems</li><br/><br/>
 
-<br><br/>
 <p align="left">
  <br><br/>
  
