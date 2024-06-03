@@ -6,7 +6,7 @@
 
 <li align="left"> 🎯 Portfolio website: [Portfolio](https://code-nimbus.github.io/)</b></li>
 
-<li align="left"> 🔭 I’m currently exploring Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
+<li align="left"> 🔭 I’m currently exploring Software and Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
 
 <li align="left"> 📫 Let's connect ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
 
