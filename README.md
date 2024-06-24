@@ -10,7 +10,7 @@
 
 <li align="left"> 📫 Let's connect ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
 
-<li align="left"> 💬 Ask me about ➡︎ <b> Web Development, Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
+<li align="left"> 💬 Ask me about ➡︎ <b> Web Development, Graphic Design, Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
 
 <li align="left"> ⚡ Interesting fact ➡︎ I am a polymath and learn to draw from multiple pools of knowledge to solve complex problems</li><br/><br/>
 
