@@ -34,7 +34,7 @@
 <br><br/>
 <p align="center">
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&theme=blue-green&show_icons=true" alt="code-nimbus" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&theme=blue-green&show_icons=true" alt="code-nimbus" /> -->
 </p>
 
 <p align="center">
