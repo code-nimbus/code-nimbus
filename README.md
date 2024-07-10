@@ -52,7 +52,7 @@
 </br></br>-->
 
 <li align="left"> 🎯 Portfolio website: [Portfolio](https://code-nimbus.github.io/)</b></li>
-<li align="left"> 📫 How to reach me **agarwalanuva16@gmail.com**</li>
+<li align="left"> 📫 How to reach me <b></b>agarwalanuva16@gmail.com</b></li>
 - ## Connect with me  
 <div align="center">
 <!--<a href="https://instagram.com/#" target="_blank">
