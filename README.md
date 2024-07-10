@@ -1,12 +1,12 @@
-<h1 align="center">Hi ✌, I'm Anuva Agarwal</h1>
-<h3 align="left">I am an experienced Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Anuva Agarwal</h1>
+<h3 align="center">A passionate developer from USA</h3>
 
-<img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
+!--<img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-nimbus" alt="code-nimbus" /> </p>//-->
 
 <li align="left"> 🎯 Portfolio website: [Portfolio](https://code-nimbus.github.io/)</b></li>
 
-<li align="left"> 🔭 I’m currently exploring Software and Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
+<!--li align="left"> 🔭 I’m currently exploring Software and Web Development, Machine Learning, Data Science, Computer Vision and Natural Language Processing Fields</a></li>
 
 <li align="left"> 📫 Let's connect ➡︎ <a href="https://www.linkedin.com/in/agarwalanuva/">Anuva Agarwal</a></li>
 
@@ -49,7 +49,7 @@
 <!--<h1 align="center">Hi 👋, I'm Aditya Suryawanshi</h1>-->
 </br>
 <!--<h3 align="center">A passionate developer from India</h3>-->
-</br></br>
+</br></br>-->
 
 - 📫 How to reach me **adityasurya4103@gmail.com**
 - ## Connect with me  
