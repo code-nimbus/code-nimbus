@@ -34,7 +34,7 @@
 <br><br/>
 <p align="center">
 <br/><br/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&theme=blue-green&show_icons=true" alt="code-nimbus" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&theme=blue-green&show_icons=true" alt="code-nimbus" /> 
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/agarwalanuva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="code-nimbus" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/agarwalanuva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="code-nimbus" height="20" width="20" /></a>-->
 
 <!--<h1 align="center">Hi 👋, I'm Aditya Suryawanshi</h1>-->
 </br>
