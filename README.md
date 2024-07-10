@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuva Agarwal</h1>
-<h3 align="center">A passionate developer from USA</h3>
+<h3 align="center">An experienced and passionate developer driving tech innovation</h3>
 
 <!--<img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-nimbus" alt="code-nimbus" /> </p>//-->
@@ -51,7 +51,7 @@
 <!--<h3 align="center">A passionate developer from India</h3>
 </br></br>-->
 
-- 📫 How to reach me **adityasurya4103@gmail.com**
+- 📫 How to reach me **agarwalanuva16@gmail.com**
 - ## Connect with me  
 <div align="center">
 <!--<a href="https://instagram.com/#" target="_blank">
