@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuva Agarwal</h1>
 <h3 align="center">A passionate developer from USA</h3>
 
-!--<img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-nimbus" alt="code-nimbus" /> </p>//-->
+<!--<img align="right" alt="GIF" src="https://github.com/code-nimbus/code-nimbus/blob/main/codegirl.gif" width="400px" height="300px"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-nimbus" alt="code-nimbus" /> </p>//-->
 
 <li align="left"> 🎯 Portfolio website: [Portfolio](https://code-nimbus.github.io/)</b></li>
 
