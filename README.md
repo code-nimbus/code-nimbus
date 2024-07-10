@@ -127,7 +127,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasurya4103&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nimbus&hide_border=true&layout=compact" align="center" /></div>  
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=code-nimbus&show_icons=true&count_private=true&hide_border=true" align="left" />  
 -->
@@ -154,7 +154,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/adityasurya4103" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/code-nimbus" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
